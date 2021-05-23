@@ -1,0 +1,2 @@
+[local](docs/intro.md)
+[external](https://example.com)
